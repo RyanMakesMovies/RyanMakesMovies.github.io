@@ -1,150 +1,164 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NexThreat.com" resolutions="1x" timestamp="1493616678362">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NexThreat.com" resolutions="1x" timestamp="1494656956800">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="404.css" crc="3799722202" ref="404"/>
-    <file name="index.css" crc="3914361979" ref="index"/>
-  </folder>
-  <folder name="fonts">
-    <file name="gotham-light.woff" crc="50620015"/>
-    <file name="gotham-light.eot" crc="4115874755"/>
-    <file name="gotham-light.svg" crc="94322575"/>
-    <file name="gotham-black.woff" crc="3900129467"/>
-    <file name="gotham-black.eot" crc="199716797"/>
-    <file name="gotham-black.svg" crc="196688482"/>
+    <file name="fullscreen-sample-01.css" crc="248052861" ref="fullscreen-sample-01"/>
+    <file name="index.css" crc="3830861556" ref="index"/>
+    <file name="404.css" crc="4278529358" ref="404"/>
   </folder>
   <folder name="assets">
     <file name="header_precolor.png" crc="4155462538" seo="true" mt="1493091252000"/>
-    <file name="preloader-2_1.gif" crc="3990325831" seo="true" mt="1493616553000"/>
+    <file name="jquery.fullpage.min.css" crc="4261252394" seo="true" mt="1482759444000"/>
+    <file name="jquery.fullpage.min.js" crc="205373542" seo="true" mt="1479747070000"/>
+    <file name="scrolloverflow.min.js" crc="4262947342" seo="true" mt="1480226166000"/>
+    <file name="jquery.easings.min.js" crc="211836766" seo="true" mt="1476994760000"/>
+    <file name="preloader-2_1.gif" crc="3990325831" seo="true" mt="1493616678000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:404"/>
-    <file name="museutils.js" crc="4232573551" ref="index:404"/>
-    <file name="whatinput.js" crc="86476730" ref="index:404"/>
-    <file name="museconfig.js" crc="4152223963" ref="index:404"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:404"/>
-    <file name="webpro.js" crc="3770351119" ref="index"/>
-    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
-    <file name="touchswipe.js" crc="3912873526" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index:404"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:404:fullscreen-sample-01"/>
+    <file name="museutils.js" crc="4232573551" ref="index:404:fullscreen-sample-01"/>
+    <file name="whatinput.js" crc="86476730" ref="index:404:fullscreen-sample-01"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:404:fullscreen-sample-01"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:fullscreen-sample-01"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:404:fullscreen-sample-01"/>
+    <file name="webpro.js" crc="3770351119" ref="index:fullscreen-sample-01"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:fullscreen-sample-01"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:fullscreen-sample-01"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:fullscreen-sample-01"/>
+    <file name="require.js" crc="4234670167" ref="index:404:fullscreen-sample-01"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="fullscreen-sample-01"/>
   </folder>
   <folder name="images">
-    <file name="header_precolor.png" crc="112104327" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="whitelogo.png" crc="524069768" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="whiteblue logo, tagline.png" crc="233598123" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="elevatorpitch_precolor.jpg" crc="3767178126" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="elevatorpitch_textbg01.png" crc="27512562" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="elevatorpitch_textbg.png" crc="4005646328" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u526-6.png" crc="335166094" ref="index"/>
-    <file name="nexthreatmethod_textbox.png" crc="250186841" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="header_precolor.png" crc="4233307349" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1518-4.png" crc="292910625" ref="index"/>
-    <file name="u1515-4.png" crc="3828693641" ref="index"/>
-    <file name="u1527-4.png" crc="3984157146" ref="index"/>
-    <file name="u1526-4.png" crc="3828693641" ref="index"/>
-    <file name="u1545-4.png" crc="3929750999" ref="index"/>
-    <file name="u1544-4.png" crc="3828693641" ref="index"/>
-    <file name="u1539-4.png" crc="3784142276" ref="index"/>
-    <file name="u1538-4.png" crc="3828693641" ref="index"/>
-    <file name="u1551-4.png" crc="4157852843" ref="index"/>
-    <file name="u1550-4.png" crc="3828693641" ref="index"/>
-    <file name="nexthreatmethod_precolor.png" crc="202662727" ref="index">
+    <file name="whiteblue logo, tagline.png" crc="4071052877" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bottomhalfparallax_precolor.png" crc="182270588" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:fullscreen-sample-01"/>
+    <file name="elevatorpitch_precolor.jpg" crc="504462127" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="statsbg.png" crc="338918187" ref="index">
+    <file name="elevatorpitchbg.svg" crc="4135389319" ref="index"/>
+    <file name="elevatorpitchbg_poster_u6012.png" crc="4127603136" ref="index"/>
+    <file name="nexthreatmethod_precolor.jpg" crc="487679669" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1124-4.png" crc="86803724" ref="index"/>
-    <file name="u1569-15.png" crc="4093280739" ref="index"/>
-    <file name="u1590-4.png" crc="3900251845" ref="index"/>
-    <file name="u1118-4.png" crc="244311003" ref="index"/>
-    <file name="u1209-4.png" crc="381924406" ref="index"/>
-    <file name="services_textboxfull.png" crc="4195577637" ref="index">
+    <file name="nexthreatmethod_textbox.svg" crc="3781153579" ref="index"/>
+    <file name="nexthreatmethod_textbox_poster_u6030.png" crc="4168051786" ref="index"/>
+    <file name="bottomhalfparallax_precolor.jpg" crc="461024799" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1009-4.png" crc="186265802" ref="index"/>
+    <file name="statsbg_svg.svg" crc="62385717" ref="index"/>
+    <file name="statsbg_svg_poster_u6056.png" crc="32395692" ref="index"/>
+    <file name="whynt_bg_svg.svg" crc="4234516216" ref="index"/>
+    <file name="whynt_bg_svg_poster_u6064.png" crc="488156906" ref="index"/>
+    <file name="services_textbox.svg" crc="305289956" ref="index"/>
+    <file name="services_textbox_poster_u6038.png" crc="332215753" ref="index"/>
     <file name="morganstanley.png" crc="3788036912" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="visa.png" crc="295906289" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="senate.png" crc="240883110" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ebay.png" crc="62707195" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="koch.png" crc="3984439769" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="visa.png" crc="295906289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="ngia.png" crc="4262822483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="senate.png" crc="240883110" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="army.png" crc="104944555" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="ebay.png" crc="62707195" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="navy.png" crc="4077941145" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1346.png" crc="3993699529" ref="index"/>
-    <file name="u1346-r.png" crc="3841069136" ref="index"/>
-    <file name="u1350.png" crc="181967752" ref="index"/>
-    <file name="u1350-r.png" crc="122352473" ref="index"/>
-    <file name="u1378.png" crc="4194533230" ref="index"/>
-    <file name="u1378-r.png" crc="258774595" ref="index"/>
-    <file name="whynt_bg.png" crc="492967563" ref="index">
+    <file name="calltoaction_precolor.jpg" crc="352852669" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1121-4.png" crc="522483386" ref="index"/>
-    <file name="u1594.png" crc="4122440789" ref="index"/>
-    <file name="u1594-r.png" crc="441577013" ref="index"/>
-    <file name="calltoaction_precolor.jpg" crc="3973176132" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u1600.png" crc="351594276" ref="index"/>
-    <file name="u1600-r.png" crc="3983749510" ref="index"/>
     <file name="whiteblue logo.png" crc="3905457342" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="fbicon.png" crc="3911677461" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rssicon.png" crc="4013596469" seo="true" ref="index">
+    <file name="twiticon.png" crc="367981325" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="twiticon.png" crc="367981325" seo="true" ref="index">
+    <file name="rssicon.png" crc="4013596469" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="linkedinicon.png" crc="300482065" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="hexagon.png" crc="3768596392" ref="fullscreen-sample-01">
+      <caption webpage="fullscreen-sample-01" alt=""/>
+      <caption webpage="fullscreen-sample-01" alt=""/>
+    </file>
+    <file name="cactus.jpg" crc="110673419" seo="true" ref="fullscreen-sample-01">
+      <caption webpage="fullscreen-sample-01" alt=""/>
+    </file>
+    <file name="road.jpg" crc="38118954" seo="true" ref="fullscreen-sample-01">
+      <caption webpage="fullscreen-sample-01" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="4242523122" seo="true" ref="fullscreen-sample-01">
+      <caption webpage="fullscreen-sample-01" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="fullscreen-sample-01"/>
+    <file name="road134x89.jpg" crc="390117498" seo="true" ref="fullscreen-sample-01">
+      <caption webpage="fullscreen-sample-01" alt=""/>
+    </file>
+    <file name="cactus134x89.jpg" crc="509767820" seo="true" ref="fullscreen-sample-01">
+      <caption webpage="fullscreen-sample-01" alt=""/>
+    </file>
+    <file name="trees134x89.jpg" crc="386417028" seo="true" ref="fullscreen-sample-01">
+      <caption webpage="fullscreen-sample-01" alt=""/>
+    </file>
+    <file name="mountaingbgalpha-min.png" crc="4051188358" ref="fullscreen-sample-01">
+      <caption webpage="fullscreen-sample-01" alt=""/>
+      <caption webpage="fullscreen-sample-01" alt=""/>
+    </file>
+    <file name="eng - long content-min.png" crc="296302453" seo="true" ref="fullscreen-sample-01">
+      <caption webpage="fullscreen-sample-01" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4293299928" seo="true" mt="1493616568712" redirect="true"/>
-  <file name="404.html" crc="3879950169" seo="true" mt="1493320522951" redirect="true"/>
+  <file name="index.html" crc="240698435" seo="true" mt="1494656875740" redirect="true"/>
+  <file name="404.html" crc="485439973" seo="true" mt="1494639229520" redirect="true"/>
+  <file name="fullscreen-sample-01.html" crc="336450583" seo="true" mt="1494542930707" redirect="true"/>
 </manifest>
