@@ -1,0 +1,5 @@
+v1.01 - Initial Build
+v1.02 - Bug fixes / responsive positioning
+v2.01 - Build using FullPageScroll responsive engine
+v3.01 - Revert to previous build / bug fixes
+v4.01 - Widget implementation / responsive layout / magnetic anchor patch
