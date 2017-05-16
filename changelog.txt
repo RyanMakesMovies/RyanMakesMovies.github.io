@@ -1,5 +1,44 @@
-v1.01 - Initial Build
-v1.02 - Bug fixes / responsive positioning
-v2.01 - Build using FullPageScroll responsive engine
-v3.01 - Revert to previous build / bug fixes
-v4.01 - Widget implementation / responsive layout / magnetic anchor patch
+v1.01
+	- Initial Build
+v1.02
+	- Bug fixes
+	- Responsive positioning
+v2.01
+	- Build using FullPageScroll responsive engine
+v3.01
+	- Revert to previous build / engine
+	- .png files replaced with .svg to optimize quality & page load times
+	- Fonts updated to vector Google Fonts
+	- Bug fixes
+v4.01
+	- Changelog created
+	- Widget implementation
+	- Responsive compositions
+	- Magnetic anchor patch (Anchor+)
+	- Updated donut charts on "Stats" page to more interactive version
+v4.02
+	- Added scroll animations	
+	- Replaced .svg bg images with solid colors for debugging
+		- Fixed "section" shift bug
+	- Anchor position fix
+		- Fixed bug where some sections would "land" in the wrong spot when scrolling
+	- Metadata update (site title)
+	- Changelog format update
+	- Added Page Preloader
+	- "Clients" images combined / made responsive
+	- Converted "NexThreat Method" to responsive slideshow theme
+	- Adjusted footer color
+	- Fixed bug that caused some sections to overlap one another
+	- Rebuilt "Services" Widget
+	- Fixed bug with header links overlapping one another
+
+Known Bugs as of 4.02
+	- Chrome Stability
+		- Scrolling disabled
+			- Solution: Add clickable button navigation for Chrome users
+	- Some elements (NexThreat logo in header / some text content) not centered vertically in sections
+	- "Why NexThreat" slideshow colored background not at full browser height when window is too tall
+	- "Services" widget needs to be refined for different window sizes
+		- Elements overlap when window is too small, text leaves bg when window is too wide
+	- Footer is not responsive, needs to be rebuilt
+	- No full image bg for lower sections

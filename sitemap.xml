@@ -2,33 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://NexThreat.com/index.html</loc>
-    <lastmod>2017-05-15</lastmod>
+    <lastmod>2017-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://NexThreat.com/images/morganstanley.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://NexThreat.com/images/koch.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://NexThreat.com/images/visa.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://NexThreat.com/images/ngia.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://NexThreat.com/images/senate.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://NexThreat.com/images/army.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://NexThreat.com/images/ebay.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://NexThreat.com/images/navy.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://NexThreat.com/images/fbicon.png</image:loc>
     </image:image>
@@ -44,7 +20,13 @@
   </url>
   <url>
     <loc>http://NexThreat.com/404.html</loc>
-    <lastmod>2017-05-12</lastmod>
+    <lastmod>2017-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://NexThreat.com/assets/preloader-2_1.gif</loc>
+    <lastmod>2017-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
