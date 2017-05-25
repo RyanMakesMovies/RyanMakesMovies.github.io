@@ -32,13 +32,17 @@ v4.02
 	- Rebuilt "Services" Widget
 	- Fixed bug with header links overlapping one another
 
-Known Bugs as of 4.02
+v4.03
+	- Switched solid color bg images back to .svg
+		- Fixed positon / scaling issues
+	- Updated placeholder text to offical site copy
+	- Added NexThreat Favicon
+
+Known Bugs as of 4.03
 	- Chrome Stability
 		- Scrolling disabled
 			- Solution: Add clickable button navigation for Chrome users
 	- Some elements (NexThreat logo in header / some text content) not centered vertically in sections
-	- "Why NexThreat" slideshow colored background not at full browser height when window is too tall
 	- "Services" widget needs to be refined for different window sizes
 		- Elements overlap when window is too small, text leaves bg when window is too wide
-	- Footer is not responsive, needs to be rebuilt
 	- No full image bg for lower sections
