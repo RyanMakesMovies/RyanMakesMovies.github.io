@@ -37,12 +37,19 @@ v4.03
 		- Fixed positon / scaling issues
 	- Updated placeholder text to offical site copy
 	- Added NexThreat Favicon
+	- Rebuilt "Why NexThreat" Widget
+	- Rebuilt "Services" Widget
 
-Known Bugs as of 4.03
-	- Chrome Stability
-		- Scrolling disabled
-			- Solution: Add clickable button navigation for Chrome users
-	- Some elements (NexThreat logo in header / some text content) not centered vertically in sections
-	- "Services" widget needs to be refined for different window sizes
-		- Elements overlap when window is too small, text leaves bg when window is too wide
-	- No full image bg for lower sections
+v5.00
+	- Implementation of Page Slide engine
+	- Combined "NexThreat Method" and "Services" sections
+	- Rebuild "Services" Navigation
+	- Moved "Why NexThreat?" section to before "Stats" section
+	- Fixed vertical centering issue
+	- Removed button links from "Stats" and "Why NT?"
+	- Updated color scheme
+	- Added side nav bar
+	- Rebuilt Stats Page
+
+Known Bugs as of 5.00
+	- Mousewheel scrolling not always responsive

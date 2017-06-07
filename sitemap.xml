@@ -2,7 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://NexThreat.com/index.html</loc>
-    <lastmod>2017-05-24</lastmod>
+    <lastmod>2017-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://NexThreat.com/slide1.html</loc>
+    <lastmod>2017-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://NexThreat.com/home.html</loc>
+    <lastmod>2017-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://NexThreat.com/404.html</loc>
+    <lastmod>2017-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://NexThreat.com/nexthreatmethod.html</loc>
+    <lastmod>2017-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://NexThreat.com/about.html</loc>
+    <lastmod>2017-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://NexThreat.com/statistics.html</loc>
+    <lastmod>2017-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://NexThreat.com/whynexthreat.html</loc>
+    <lastmod>2017-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://NexThreat.com/clients.html</loc>
+    <lastmod>2017-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://NexThreat.com/contact.html</loc>
+    <lastmod>2017-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -19,38 +73,56 @@
     </image:image>
   </url>
   <url>
-    <loc>http://NexThreat.com/about--nexthreat.html</loc>
-    <lastmod>2017-05-24</lastmod>
+    <loc>http://NexThreat.com/slide5.html</loc>
+    <lastmod>2017-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://NexThreat.com/government--nexthreat.html</loc>
-    <lastmod>2017-05-24</lastmod>
+    <loc>http://NexThreat.com/slide4.html</loc>
+    <lastmod>2017-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://NexThreat.com/404.html</loc>
-    <lastmod>2017-05-24</lastmod>
+    <loc>http://NexThreat.com/slide2.html</loc>
+    <lastmod>2017-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://NexThreat.com/contact--nexthreat.html</loc>
-    <lastmod>2017-05-24</lastmod>
+    <loc>http://NexThreat.com/slide3.html</loc>
+    <lastmod>2017-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://NexThreat.com/statistics--nexthreat.html</loc>
-    <lastmod>2017-05-24</lastmod>
+    <loc>http://NexThreat.com/usecases.html</loc>
+    <lastmod>2017-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://NexThreat.com/assets/preloader-2_1.gif</loc>
-    <lastmod>2017-04-30</lastmod>
+    <loc>http://NexThreat.com/falsepositives.html</loc>
+    <lastmod>2017-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://NexThreat.com/slide6.html</loc>
+    <lastmod>2017-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://NexThreat.com/efficiency.html</loc>
+    <lastmod>2017-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://NexThreat.com/assets/preloader-2_2.gif</loc>
+    <lastmod>2017-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

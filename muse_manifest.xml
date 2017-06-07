@@ -1,84 +1,126 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NexThreat.com" resolutions="1x" timestamp="1495694856176">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NexThreat.com" resolutions="1x" timestamp="1496872145108">
   <folder name="css">
     <file name="site_global.css" crc="328028280"/>
+    <file name="master_slidemaster.css" crc="3809798556" ref="index:slide3:contact:slide2:nexthreatmethod:usecases:slide1:slide4:falsepositives:about:statistics:efficiency:slide5:clients:home:whynexthreat:slide6"/>
+    <file name="index.css" crc="230321939" ref="index"/>
+    <file name="slide3.css" crc="4233034782" ref="slide3"/>
+    <file name="contact.css" crc="4199728763" ref="contact"/>
+    <file name="slide2.css" crc="3978018856" ref="slide2"/>
+    <file name="nexthreatmethod.css" crc="3999161230" ref="nexthreatmethod"/>
+    <file name="usecases.css" crc="4065688040" ref="usecases"/>
+    <file name="slide1.css" crc="334238438" ref="slide1"/>
+    <file name="slide4.css" crc="382235197" ref="slide4"/>
+    <file name="falsepositives.css" crc="4082379217" ref="falsepositives"/>
+    <file name="about.css" crc="4156716040" ref="about"/>
+    <file name="statistics.css" crc="28318303" ref="statistics"/>
+    <file name="efficiency.css" crc="505805180" ref="efficiency"/>
+    <file name="slide5.css" crc="4247888249" ref="slide5"/>
+    <file name="clients.css" crc="218094812" ref="clients"/>
+    <file name="home.css" crc="148901817" ref="home"/>
+    <file name="whynexthreat.css" crc="98891277" ref="whynexthreat"/>
+    <file name="slide6.css" crc="4197896554" ref="slide6"/>
     <file name="404.css" crc="3877403625" ref="404"/>
-    <file name="index.css" crc="381826066" ref="index"/>
-    <file name="government--nexthreat.css" crc="398501056" ref="government--nexthreat"/>
-    <file name="about--nexthreat.css" crc="398501056" ref="about--nexthreat"/>
-    <file name="contact--nexthreat.css" crc="398501056" ref="contact--nexthreat"/>
-    <file name="statistics--nexthreat.css" crc="398501056" ref="statistics--nexthreat"/>
   </folder>
   <folder name="assets">
     <file name="header_precolor.png" crc="4155462538" seo="true" mt="1493091254000"/>
-    <file name="preloader-2_1.gif" crc="3990325831" seo="true" mt="1493616680000"/>
+    <file name="preloader-2_2.gif" crc="3894258269" seo="true" mt="1496778374000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:404:about--nexthreat:government--nexthreat:contact--nexthreat:statistics--nexthreat"/>
-    <file name="museutils.js" crc="4232573551" ref="index:404:about--nexthreat:government--nexthreat:contact--nexthreat:statistics--nexthreat"/>
-    <file name="whatinput.js" crc="86476730" ref="index:404:about--nexthreat:government--nexthreat:contact--nexthreat:statistics--nexthreat"/>
-    <file name="museconfig.js" crc="4152223963" ref="index:404:about--nexthreat:government--nexthreat:contact--nexthreat:statistics--nexthreat"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:404:about--nexthreat:government--nexthreat:contact--nexthreat:statistics--nexthreat"/>
-    <file name="webpro.js" crc="3770351119" ref="index"/>
-    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
-    <file name="touchswipe.js" crc="3912873526" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index:404:about--nexthreat:government--nexthreat:contact--nexthreat:statistics--nexthreat"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:404:nexthreatmethod:about:statistics:whynexthreat:clients:contact:slide1:index:slide2:slide3:slide4:slide5:slide6:efficiency:usecases:falsepositives"/>
+    <file name="museutils.js" crc="4232573551" ref="home:404:nexthreatmethod:about:statistics:whynexthreat:clients:contact:slide1:index:slide2:slide3:slide4:slide5:slide6:efficiency:usecases:falsepositives"/>
+    <file name="whatinput.js" crc="86476730" ref="home:404:nexthreatmethod:about:statistics:whynexthreat:clients:contact:slide1:index:slide2:slide3:slide4:slide5:slide6:efficiency:usecases:falsepositives"/>
+    <file name="museconfig.js" crc="4152223963" ref="home:404:nexthreatmethod:about:statistics:whynexthreat:clients:contact:slide1:index:slide2:slide3:slide4:slide5:slide6:efficiency:usecases:falsepositives"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="home:about:statistics:whynexthreat:clients:contact:slide1:slide2:slide3:slide4:slide5:slide6:efficiency:usecases:falsepositives"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="home:404:nexthreatmethod:about:statistics:whynexthreat:clients:contact:slide1:index:slide2:slide3:slide4:slide5:slide6:efficiency:usecases:falsepositives"/>
+    <file name="require.js" crc="4234670167" ref="home:404:nexthreatmethod:about:statistics:whynexthreat:clients:contact:slide1:index:slide2:slide3:slide4:slide5:slide6:efficiency:usecases:falsepositives"/>
   </folder>
   <folder name="images">
-    <file name="header_precolor.png" crc="3830377915" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="favicon.ico" crc="290202437" ref="home"/>
+    <file name="header_precolor.png" crc="3830377915" ref="home">
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="whiteblue logo, tagline.png" crc="233598123" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="home:contact"/>
+    <file name="whiteblue logo, tagline.png" crc="347032438" ref="home">
+      <caption webpage="home" alt=""/>
     </file>
-    <file name="nexthreatmethod_precolor.png" crc="3998856334" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="elevatorpitchbg.svg" crc="4135389319" ref="about"/>
+    <file name="elevatorpitchbg_poster_u10262.png" crc="4127603136" ref="about"/>
+    <file name="elevatorpitch_precolor.jpg" crc="3767178126" ref="about">
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="services_textbox.svg" crc="305289956" ref="index"/>
-    <file name="services_textbox_poster_u6038.png" crc="332215753" ref="index"/>
-    <file name="whynt_bg_svg.svg" crc="4234516216" ref="index"/>
-    <file name="whynt_bg_svg_poster_u6064.png" crc="488156906" ref="index"/>
-    <file name="calltoaction_precolor.jpg" crc="473686978" ref="index"/>
-    <file name="whiteblue logo.png" crc="3905457342" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="services_textbox.svg" crc="305289956" ref="statistics"/>
+    <file name="services_textbox_poster_u6038.png" crc="332215753" ref="statistics"/>
+    <file name="statsbg_svg.svg" crc="62385717" ref="statistics"/>
+    <file name="statsbg_svg_poster_u11042.png" crc="32395692" ref="statistics"/>
+    <file name="dmitri-popov-192369.jpg" crc="3959748751" ref="statistics:efficiency:usecases:falsepositives">
+      <caption webpage="efficiency" alt=""/>
+      <caption webpage="statistics" alt=""/>
+      <caption webpage="falsepositives" alt=""/>
+      <caption webpage="usecases" alt=""/>
     </file>
-    <file name="fbicon.png" crc="3911677461" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="whynt_bg_svg.svg" crc="4234516216" ref="whynexthreat"/>
+    <file name="whynt_bg_svg_poster_u6064.png" crc="488156906" ref="whynexthreat"/>
+    <file name="jesse-collins-198853.jpg" crc="4281682194" ref="clients">
+      <caption webpage="clients" alt=""/>
     </file>
-    <file name="rssicon.png" crc="4013596469" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="clients.png" crc="130184359" ref="clients">
+      <caption webpage="clients" alt=""/>
+      <caption webpage="clients" alt=""/>
     </file>
-    <file name="twiticon.png" crc="367981325" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="calltoaction_precolor.jpg" crc="3973176132" ref="contact">
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="linkedinicon.png" crc="300482065" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="bg texture_red.jpg" crc="3774921446" ref="contact">
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="elevatorpitch_precolor.jpg" crc="3767178126" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="whiteblue logo.png" crc="3905457342" ref="contact">
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="clients.png" crc="4228223534" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="fbicon.png" crc="118030098" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="favicon.ico" crc="290202437" ref="index"/>
-    <file name="elevatorpitchbg.svg" crc="4135389319" ref="index"/>
-    <file name="elevatorpitchbg_poster_u8917.png" crc="4127603136" ref="index"/>
-    <file name="whitelogo.png" crc="4232478896" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="rssicon.png" crc="228130375" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="nexthreatmethod_precolor-u8202-fr.png" crc="163515443" ref="index"/>
-    <file name="statsbg_svg.svg" crc="62385717" ref="index"/>
-    <file name="statsbg_svg_poster_u8967.png" crc="32395692" ref="index"/>
+    <file name="twiticon.png" crc="144733462" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="linkedinicon.png" crc="329434474" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="nexthreatmethod_precolor.png" crc="3998856334" ref="slide1:slide2:slide3:slide4:slide5:slide6">
+      <caption webpage="slide4" alt=""/>
+      <caption webpage="slide4" alt=""/>
+      <caption webpage="slide5" alt=""/>
+      <caption webpage="slide5" alt=""/>
+      <caption webpage="slide1" alt=""/>
+      <caption webpage="slide1" alt=""/>
+      <caption webpage="slide6" alt=""/>
+      <caption webpage="slide6" alt=""/>
+      <caption webpage="slide3" alt=""/>
+      <caption webpage="slide3" alt=""/>
+      <caption webpage="slide2" alt=""/>
+      <caption webpage="slide2" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4055782777" seo="true" mt="1495693627745" redirect="true"/>
-  <file name="404.html" crc="3801723221" seo="true" mt="1495687472949" redirect="true"/>
-  <file name="about--nexthreat.html" crc="4189313712" seo="true" mt="1495687472949" redirect="false"/>
-  <file name="government--nexthreat.html" crc="1473616" seo="true" mt="1495687472949" redirect="false"/>
-  <file name="contact--nexthreat.html" crc="240449239" seo="true" mt="1495687472949" redirect="false"/>
-  <file name="statistics--nexthreat.html" crc="3929654104" seo="true" mt="1495687472949" redirect="false"/>
+  <file name="home.html" crc="4027934228" seo="true" mt="1496865172030" redirect="true"/>
+  <file name="404.html" crc="3845986364" seo="true" mt="1496775822588" redirect="true"/>
+  <file name="nexthreatmethod.html" crc="4198238873" seo="true" mt="1496865172030" redirect="true"/>
+  <file name="about.html" crc="532721477" seo="true" mt="1496869045749" redirect="true"/>
+  <file name="statistics.html" crc="465123523" seo="true" mt="1496872027655" redirect="true"/>
+  <file name="whynexthreat.html" crc="3829223129" seo="true" mt="1496868187643" redirect="true"/>
+  <file name="clients.html" crc="43226185" seo="true" mt="1496867164546" redirect="true"/>
+  <file name="contact.html" crc="4233954349" seo="true" mt="1496871745385" redirect="true"/>
+  <file name="slide1.html" crc="4268946186" seo="true" mt="1496865172030" redirect="true"/>
+  <file name="index.html" crc="4096752213" seo="true" mt="1496871055790" redirect="true"/>
+  <file name="slide2.html" crc="3913856454" seo="true" mt="1496865172030" redirect="true"/>
+  <file name="slide3.html" crc="353211849" seo="true" mt="1496865172030" redirect="true"/>
+  <file name="slide4.html" crc="4187861874" seo="true" mt="1496865172030" redirect="true"/>
+  <file name="slide5.html" crc="24583885" seo="true" mt="1496865172030" redirect="true"/>
+  <file name="slide6.html" crc="457278294" seo="true" mt="1496865172030" redirect="true"/>
+  <file name="efficiency.html" crc="4135360731" seo="true" mt="1496870922514" redirect="true"/>
+  <file name="usecases.html" crc="3793543178" seo="true" mt="1496870914802" redirect="true"/>
+  <file name="falsepositives.html" crc="3932802597" seo="true" mt="1496870907969" redirect="true"/>
 </manifest>
