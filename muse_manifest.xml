@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NexThreat.com" resolutions="1x" timestamp="1496872145108">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NexThreat.com" resolutions="1x" timestamp="1496872992767">
   <folder name="css">
     <file name="site_global.css" crc="328028280"/>
-    <file name="master_slidemaster.css" crc="3809798556" ref="index:slide3:contact:slide2:nexthreatmethod:usecases:slide1:slide4:falsepositives:about:statistics:efficiency:slide5:clients:home:whynexthreat:slide6"/>
-    <file name="index.css" crc="230321939" ref="index"/>
+    <file name="master_slidemaster.css" crc="3809798556" ref="slide3:contact:slide2:nexthreatmethod:usecases:slide1:slide4:falsepositives:about:statistics:efficiency:slide5:clients:home:whynexthreat:slide6"/>
+    <file name="index.css" crc="445799699" ref="index"/>
     <file name="slide3.css" crc="4233034782" ref="slide3"/>
     <file name="contact.css" crc="4199728763" ref="contact"/>
     <file name="slide2.css" crc="3978018856" ref="slide2"/>
@@ -35,7 +35,7 @@
     <file name="require.js" crc="4234670167" ref="home:404:nexthreatmethod:about:statistics:whynexthreat:clients:contact:slide1:index:slide2:slide3:slide4:slide5:slide6:efficiency:usecases:falsepositives"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="290202437" ref="home"/>
+    <file name="favicon.ico" crc="290202437" ref="home:index"/>
     <file name="header_precolor.png" crc="3830377915" ref="home">
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
@@ -114,7 +114,7 @@
   <file name="clients.html" crc="43226185" seo="true" mt="1496867164546" redirect="true"/>
   <file name="contact.html" crc="4233954349" seo="true" mt="1496871745385" redirect="true"/>
   <file name="slide1.html" crc="4268946186" seo="true" mt="1496865172030" redirect="true"/>
-  <file name="index.html" crc="4096752213" seo="true" mt="1496871055790" redirect="true"/>
+  <file name="index.html" crc="4029824888" seo="true" mt="1496872974192" redirect="true"/>
   <file name="slide2.html" crc="3913856454" seo="true" mt="1496865172030" redirect="true"/>
   <file name="slide3.html" crc="353211849" seo="true" mt="1496865172030" redirect="true"/>
   <file name="slide4.html" crc="4187861874" seo="true" mt="1496865172030" redirect="true"/>
