@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NexThreat.com" resolutions="1x" timestamp="1496882039212">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NexThreat.com" resolutions="1x" timestamp="1496883146419">
   <folder name="css">
     <file name="site_global.css" crc="328028280"/>
     <file name="master_slidemaster.css" crc="3809798556" ref="slide3:contact:slide2:nexthreatmethod:usecases:slide1:slide4:falsepositives:about:statistics:efficiency:slide5:clients:home:whynexthreat:slide6"/>
@@ -35,7 +35,7 @@
     <file name="require.js" crc="4234670167" ref="home:404:nexthreatmethod:about:statistics:whynexthreat:clients:contact:slide1:index:slide2:slide3:slide4:slide5:slide6:efficiency:usecases:falsepositives"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="290202437" ref="home"/>
+    <file name="favicon.ico" crc="290202437" ref="home:index"/>
     <file name="header_precolor.png" crc="3830377915" ref="home">
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
@@ -114,7 +114,7 @@
   <file name="clients.html" crc="466800721" seo="true" mt="1496882013817" redirect="true"/>
   <file name="contact.html" crc="143655578" seo="true" mt="1496882013817" redirect="true"/>
   <file name="slide1.html" crc="4268946186" seo="true" mt="1496882013817" redirect="true"/>
-  <file name="index.html" crc="482795913" seo="true" mt="1496882008369" redirect="true"/>
+  <file name="index.html" crc="3991741175" seo="true" mt="1496883139171" redirect="true"/>
   <file name="slide2.html" crc="3913856454" seo="true" mt="1496882013817" redirect="true"/>
   <file name="slide3.html" crc="353211849" seo="true" mt="1496882013817" redirect="true"/>
   <file name="slide4.html" crc="4187861874" seo="true" mt="1496882013817" redirect="true"/>
