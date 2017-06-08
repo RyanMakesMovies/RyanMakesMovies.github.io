@@ -55,3 +55,5 @@ Known Bugs as of 5.00
 	- Mousewheel scrolling not always responsive
 	- Minor text scaling/positioning bugs
 	- Footer overlaps text on small window size
+	- Header/Footer Navigation Links point to 404
+	- Disabled scroll animations
