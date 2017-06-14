@@ -51,7 +51,13 @@ v5.00
 	- Added side nav bar
 	- Rebuilt Stats Page
 
-Known Bugs as of 5.00
+v5.01
+	- Government Placeholder page
+	- New nav links
+	- Pointed Nav links to proper pages
+	- Implemented <head> tracking code
+
+Known Bugs as of 5.01
 	- Mousewheel scrolling not always responsive
 	- Minor text scaling/positioning bugs
 	- Footer overlaps text on small window size
