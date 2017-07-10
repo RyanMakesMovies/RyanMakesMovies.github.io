@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NexThreat.com" resolutions="1x" timestamp="1499659281419">
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NexThreat.com" resolutions="1x" timestamp="1499659486211">
   <folder name="css">
     <file name="site_global.css" crc="328028280"/>
     <file name="master_slidemaster.css" crc="3809798556" ref="slide1:efficiency:slide2:slide3:home:slide4:nexthreatmethod:usecases:slide6:about:statistics:falsepositives:whynexthreat:clients:slide5:contact"/>
@@ -14,13 +14,13 @@
     <file name="nexthreatmethod.css" crc="3999161230" ref="nexthreatmethod"/>
     <file name="usecases.css" crc="4207530569" ref="usecases"/>
     <file name="slide6.css" crc="3765826667" ref="slide6"/>
-    <file name="about.css" crc="3787813866" ref="about"/>
+    <file name="about.css" crc="4167997333" ref="about"/>
     <file name="statistics.css" crc="82222098" ref="statistics"/>
     <file name="falsepositives.css" crc="144010237" ref="falsepositives"/>
     <file name="whynexthreat.css" crc="120091409" ref="whynexthreat"/>
     <file name="clients.css" crc="4066651109" ref="clients"/>
     <file name="slide5.css" crc="3883041912" ref="slide5"/>
-    <file name="contact.css" crc="4204089754" ref="contact"/>
+    <file name="contact.css" crc="4001347137" ref="contact"/>
   </folder>
   <folder name="assets">
     <file name="header_precolor.png" crc="4155462538" seo="true" mt="1493091254000"/>
@@ -177,11 +177,11 @@
   <file name="home.html" crc="251456768" seo="true" mt="1499649674199" redirect="true"/>
   <file name="404.html" crc="4230748801" seo="true" mt="1498157526224" redirect="true"/>
   <file name="nexthreatmethod.html" crc="380013957" seo="true" mt="1498157525597" redirect="true"/>
-  <file name="about.html" crc="454571534" seo="true" mt="1499659146297" redirect="true"/>
+  <file name="about.html" crc="4231299558" seo="true" mt="1499659478990" redirect="true"/>
   <file name="statistics.html" crc="3860163864" seo="true" mt="1498157525932" redirect="true"/>
   <file name="whynexthreat.html" crc="4227992077" seo="true" mt="1499649283660" redirect="true"/>
   <file name="clients.html" crc="273389131" seo="true" mt="1498157526139" redirect="true"/>
-  <file name="contact.html" crc="388068950" seo="true" mt="1499659273198" redirect="true"/>
+  <file name="contact.html" crc="4232737206" seo="true" mt="1499659432745" redirect="true"/>
   <file name="slide1.html" crc="3956875892" seo="true" mt="1498157525641" redirect="true"/>
   <file name="index.html" crc="4222242373" seo="true" mt="1499649817846" redirect="true"/>
   <file name="slide2.html" crc="197508151" seo="true" mt="1498157525682" redirect="true"/>
