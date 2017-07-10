@@ -25,7 +25,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=328028280"/>
   <link rel="stylesheet" type="text/css" href="css/master_slidemaster.css?crc=3809798556"/>
-  <link rel="stylesheet" type="text/css" href="css/whynexthreat.css?crc=3894687654" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/whynexthreat.css?crc=120091409" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -156,7 +156,13 @@ Read more about our terms & conditions: http://www.qooqee.com/terms-condition
    <div class="size_fixed grpelem" id="u10824"><!-- custom html -->
      
    </div>
-   <div class="museBGSize onscroll3 grpelem" id="u10996" title="RH100"><!-- simple frame --></div>
+   <div class="browser_width grpelem" id="u12884-bw">
+    <div class="museBGSize" id="u12884"><!-- group -->
+     <div class="clearfix" id="u12884_align_to_page">
+      <div class="museBGSize onscroll3 grpelem" id="u10996" title="RH100"><!-- simple frame --></div>
+     </div>
+    </div>
+   </div>
    <div id="u10999-wrapper">
     <div class="clearfix" id="u10999"><!-- group -->
      <div id="u11003-13-wrapper">
@@ -196,6 +202,8 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
