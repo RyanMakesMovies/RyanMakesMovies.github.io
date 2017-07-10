@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NexThreat.com" resolutions="1x" timestamp="1499650371008">
+=======
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NexThreat.com" resolutions="1x" timestamp="1499650039503">
+>>>>>>> origin/master
   <folder name="css">
     <file name="site_global.css" crc="328028280"/>
     <file name="master_slidemaster.css" crc="3809798556" ref="slide1:efficiency:slide2:slide3:home:slide4:nexthreatmethod:usecases:slide6:about:statistics:falsepositives:whynexthreat:clients:slide5:contact"/>
@@ -129,7 +133,11 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_slidemaster.css" crc="435056851" ref="phone>slide1:phone>statistics:phone>falsepositives:phone>usecases:phone>efficiency:phone>clients:phone>home:phone>contact:phone>nexthreatmethod:phone>slide2:phone>slide3:phone>slide4:phone>slide5:phone>slide6:phone>about:phone>whynexthreat"/>
+<<<<<<< HEAD
       <file name="slide1.css" crc="26388551" ref="phone>slide1"/>
+=======
+      <file name="slide1.css" crc="4150752719" ref="phone>slide1"/>
+>>>>>>> origin/master
       <file name="statistics.css" crc="3906991924" ref="phone>statistics"/>
       <file name="falsepositives.css" crc="485382071" ref="phone>falsepositives"/>
       <file name="usecases.css" crc="400549773" ref="phone>usecases"/>
@@ -140,6 +148,7 @@
       <file name="contact.css" crc="4107217193" ref="phone>contact"/>
       <file name="nexthreatmethod.css" crc="3850160565" ref="phone>nexthreatmethod"/>
       <file name="404.css" crc="62426684" ref="phone>404"/>
+<<<<<<< HEAD
       <file name="slide2.css" crc="3847423990" ref="phone>slide2"/>
       <file name="government.css" crc="62426684" ref="phone>government"/>
       <file name="slide3.css" crc="208106752" ref="phone>slide3"/>
@@ -148,11 +157,22 @@
       <file name="slide6.css" crc="151003134" ref="phone>slide6"/>
       <file name="about.css" crc="329555592" ref="phone>about"/>
       <file name="whynexthreat.css" crc="4140794418" ref="phone>whynexthreat"/>
+=======
+      <file name="slide2.css" crc="3964104029" ref="phone>slide2"/>
+      <file name="government.css" crc="62426684" ref="phone>government"/>
+      <file name="slide3.css" crc="3929605329" ref="phone>slide3"/>
+      <file name="slide4.css" crc="3999427735" ref="phone>slide4"/>
+      <file name="slide5.css" crc="304634094" ref="phone>slide5"/>
+      <file name="slide6.css" crc="306158324" ref="phone>slide6"/>
+      <file name="about.css" crc="329555592" ref="phone>about"/>
+      <file name="whynexthreat.css" crc="4026137077" ref="phone>whynexthreat"/>
+>>>>>>> origin/master
     </folder>
     <file name="index.html" crc="173701786" seo="true" mt="1499649899504" redirect="true"/>
     <file name="home.html" crc="364150264" seo="true" mt="1499649731615" redirect="true"/>
     <file name="about.html" crc="4096734830" seo="true" mt="1499648979012" redirect="true"/>
     <file name="nexthreatmethod.html" crc="3869413402" seo="true" mt="1499648888150" redirect="true"/>
+<<<<<<< HEAD
     <file name="slide1.html" crc="4284847014" seo="true" mt="1499650354304" redirect="true"/>
     <file name="slide2.html" crc="141226066" seo="true" mt="1499650351369" redirect="true"/>
     <file name="slide3.html" crc="3953230628" seo="true" mt="1499650349264" redirect="true"/>
@@ -160,6 +180,15 @@
     <file name="slide5.html" crc="421354251" seo="true" mt="1499650342407" redirect="true"/>
     <file name="slide6.html" crc="3986430138" seo="true" mt="1499650344441" redirect="true"/>
     <file name="whynexthreat.html" crc="339351049" seo="true" mt="1499650280941" redirect="true"/>
+=======
+    <file name="slide1.html" crc="3875448253" seo="true" mt="1499649940866" redirect="true"/>
+    <file name="slide2.html" crc="3940833935" seo="true" mt="1499649954009" redirect="true"/>
+    <file name="slide3.html" crc="323612594" seo="true" mt="1499649964158" redirect="true"/>
+    <file name="slide4.html" crc="471526901" seo="true" mt="1499649973821" redirect="true"/>
+    <file name="slide5.html" crc="4208452023" seo="true" mt="1499649983602" redirect="true"/>
+    <file name="slide6.html" crc="4216583184" seo="true" mt="1499649993478" redirect="true"/>
+    <file name="whynexthreat.html" crc="70278099" seo="true" mt="1499649915320" redirect="true"/>
+>>>>>>> origin/master
     <file name="statistics.html" crc="4041470035" seo="true" mt="1499649030183" redirect="true"/>
     <file name="falsepositives.html" crc="4050543915" seo="true" mt="1499649013516" redirect="true"/>
     <file name="usecases.html" crc="143341106" seo="true" mt="1499649019459" redirect="true"/>
