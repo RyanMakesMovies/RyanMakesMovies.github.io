@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NexThreat.com" resolutions="1x" timestamp="1499655863339">
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NexThreat.com" resolutions="1x" timestamp="1499656347730">
   <folder name="css">
     <file name="site_global.css" crc="328028280"/>
     <file name="master_slidemaster.css" crc="3809798556" ref="slide1:efficiency:slide2:slide3:home:slide4:nexthreatmethod:usecases:slide6:about:statistics:falsepositives:whynexthreat:clients:slide5:contact"/>
@@ -47,8 +47,8 @@
       <caption webpage="home" alt=""/>
     </file>
     <file name="elevatorpitch_precolor-u12611-fr.jpg" crc="3995365882" ref="phone>about"/>
-    <file name="elevatorpitchbg.svg" crc="4135389319" ref="phone>about:about"/>
-    <file name="elevatorpitchbg_poster_u10262.png" crc="4127603136" ref="phone>about:about"/>
+    <file name="elevatorpitchbg.svg" crc="4135389319" ref="about"/>
+    <file name="elevatorpitchbg_poster_u10262.png" crc="4127603136" ref="about"/>
     <file name="nexthreatmethod_precolor.png" crc="3998856334" ref="phone>slide1:phone>slide2:phone>slide3:phone>slide4:phone>slide5:phone>slide6:slide1:slide2:slide3:slide4:slide5:slide6">
       <caption webpage="slide5" alt=""/>
       <caption webpage="slide5" alt=""/>
@@ -65,12 +65,10 @@
     </file>
     <file name="whynt_bg_svg.svg" crc="4234516216" ref="phone>whynexthreat:whynexthreat"/>
     <file name="whynt_bg_svg_poster_u6064.png" crc="488156906" ref="phone>whynexthreat:whynexthreat"/>
-    <file name="dmitri-popov-192369-u12629-fr.png" crc="4136159811" ref="phone>statistics"/>
     <file name="services_textbox.svg" crc="305289956" ref="phone>statistics:statistics"/>
     <file name="services_textbox_poster_u6038.png" crc="332215753" ref="phone>statistics:statistics"/>
-    <file name="statsbg_svg.svg" crc="62385717" ref="phone>statistics:statistics"/>
-    <file name="statsbg_svg_poster_u11042.png" crc="32395692" ref="phone>statistics:statistics"/>
-    <file name="dmitri-popov-192369-u12788-fr.jpg" crc="4097594973" ref="phone>falsepositives:phone>usecases:phone>efficiency"/>
+    <file name="statsbg_svg.svg" crc="62385717" ref="statistics"/>
+    <file name="statsbg_svg_poster_u11042.png" crc="32395692" ref="statistics"/>
     <file name="jesse-collins-198853-u12653-fr.png" crc="3863739120" ref="phone>clients"/>
     <file name="clients.png" crc="130184359" ref="phone>clients:clients">
       <caption webpage="clients" alt=""/>
@@ -125,16 +123,19 @@
       <caption webpage="contact" alt=""/>
     </file>
     <file name="joel-filipe-191175-u12915-fr.png" crc="3976291537" ref="phone>whynexthreat"/>
+    <file name="mobileredbg.svg" crc="4238783680" ref="phone>about:phone>statistics"/>
+    <file name="mobileredbg_poster_u13022.png" crc="75917693" ref="phone>about:phone>statistics"/>
+    <file name="dmitri-popov-192369-u12629-fr.jpg" crc="4097594973" ref="phone>statistics:phone>falsepositives:phone>usecases:phone>efficiency"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_slidemaster.css" crc="435056851" ref="phone>slide1:phone>statistics:phone>falsepositives:phone>usecases:phone>efficiency:phone>clients:phone>home:phone>contact:phone>nexthreatmethod:phone>slide2:phone>slide3:phone>slide4:phone>slide5:phone>slide6:phone>about:phone>whynexthreat:phone>footer"/>
       <file name="slide1.css" crc="3903249229" ref="phone>slide1"/>
-      <file name="statistics.css" crc="3906991924" ref="phone>statistics"/>
-      <file name="falsepositives.css" crc="485382071" ref="phone>falsepositives"/>
-      <file name="usecases.css" crc="400549773" ref="phone>usecases"/>
-      <file name="efficiency.css" crc="4112757617" ref="phone>efficiency"/>
-      <file name="index.css" crc="4288119719" ref="phone>index"/>
+      <file name="statistics.css" crc="184178124" ref="phone>statistics"/>
+      <file name="falsepositives.css" crc="3964314537" ref="phone>falsepositives"/>
+      <file name="usecases.css" crc="3842142106" ref="phone>usecases"/>
+      <file name="efficiency.css" crc="52481122" ref="phone>efficiency"/>
+      <file name="index.css" crc="35449686" ref="phone>index"/>
       <file name="clients.css" crc="415090053" ref="phone>clients"/>
       <file name="home.css" crc="4289108218" ref="phone>home"/>
       <file name="contact.css" crc="3835929176" ref="phone>contact"/>
@@ -146,13 +147,13 @@
       <file name="slide4.css" crc="3845500858" ref="phone>slide4"/>
       <file name="slide5.css" crc="118287703" ref="phone>slide5"/>
       <file name="slide6.css" crc="13789115" ref="phone>slide6"/>
-      <file name="about.css" crc="3913542569" ref="phone>about"/>
+      <file name="about.css" crc="516747274" ref="phone>about"/>
       <file name="whynexthreat.css" crc="315625471" ref="phone>whynexthreat"/>
       <file name="footer.css" crc="78074158" ref="phone>footer"/>
     </folder>
-    <file name="index.html" crc="238101845" seo="true" mt="1499655805011" redirect="true"/>
+    <file name="index.html" crc="447168927" seo="true" mt="1499656340706" redirect="true"/>
     <file name="home.html" crc="89171249" seo="true" mt="1499651157890" redirect="true"/>
-    <file name="about.html" crc="485296432" seo="true" mt="1499651146847" redirect="true"/>
+    <file name="about.html" crc="83875863" seo="true" mt="1499656167062" redirect="true"/>
     <file name="nexthreatmethod.html" crc="3869413402" seo="true" mt="1499648888150" redirect="true"/>
     <file name="slide1.html" crc="3784024183" seo="true" mt="1499650848798" redirect="true"/>
     <file name="slide2.html" crc="427285027" seo="true" mt="1499650846845" redirect="true"/>
@@ -161,10 +162,10 @@
     <file name="slide5.html" crc="316897654" seo="true" mt="1499650842224" redirect="true"/>
     <file name="slide6.html" crc="163857698" seo="true" mt="1499650840831" redirect="true"/>
     <file name="whynexthreat.html" crc="108248531" seo="true" mt="1499651031182" redirect="true"/>
-    <file name="statistics.html" crc="4041470035" seo="true" mt="1499649030183" redirect="true"/>
-    <file name="falsepositives.html" crc="4050543915" seo="true" mt="1499649013516" redirect="true"/>
-    <file name="usecases.html" crc="143341106" seo="true" mt="1499649019459" redirect="true"/>
-    <file name="efficiency.html" crc="420759904" seo="true" mt="1499649024492" redirect="true"/>
+    <file name="statistics.html" crc="4090020105" seo="true" mt="1499656270112" redirect="true"/>
+    <file name="falsepositives.html" crc="3903348133" seo="true" mt="1499656325943" redirect="true"/>
+    <file name="usecases.html" crc="349121662" seo="true" mt="1499656318346" redirect="true"/>
+    <file name="efficiency.html" crc="263798452" seo="true" mt="1499656308091" redirect="true"/>
     <file name="clients.html" crc="218399025" seo="true" mt="1499651133245" redirect="true"/>
     <file name="contact.html" crc="520900207" seo="true" mt="1499655852478" redirect="true"/>
     <file name="404.html" crc="52520742" seo="true" mt="1499107339608" redirect="false"/>
