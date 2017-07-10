@@ -57,9 +57,12 @@ v5.01
 	- Pointed Nav links to proper pages
 	- Implemented <head> tracking code
 
-Known Bugs as of 5.01
+v5.02
+	- Mobile build
+	- 
+
+Known Bugs as of 5.02
 	- Mousewheel scrolling not always responsive
 	- Minor text scaling/positioning bugs
 	- Footer overlaps text on small window size
-	- Header/Footer Navigation Links point to 404
 	- Disabled scroll animations

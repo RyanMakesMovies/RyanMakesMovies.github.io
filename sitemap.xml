@@ -2,63 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://NexThreat.com/index.html</loc>
-    <lastmod>2017-06-13</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/index.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/slide1.html</loc>
-    <lastmod>2017-06-07</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/slide1.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/home.html</loc>
-    <lastmod>2017-06-13</lastmod>
+    <lastmod>2017-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/home.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/404.html</loc>
-    <lastmod>2017-06-06</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://NexThreat.com/nexthreatmethod.html</loc>
-    <lastmod>2017-06-07</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/nexthreatmethod.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/about.html</loc>
-    <lastmod>2017-06-07</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/about.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/statistics.html</loc>
-    <lastmod>2017-06-13</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/statistics.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/whynexthreat.html</loc>
-    <lastmod>2017-06-07</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/whynexthreat.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/clients.html</loc>
-    <lastmod>2017-06-07</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/clients.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/contact.html</loc>
-    <lastmod>2017-06-13</lastmod>
+    <lastmod>2017-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/contact.html"/>
     <image:image>
       <image:loc>http://NexThreat.com/images/fbicon.png</image:loc>
     </image:image>
@@ -74,61 +83,69 @@
   </url>
   <url>
     <loc>http://NexThreat.com/slide5.html</loc>
-    <lastmod>2017-06-07</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/slide5.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/slide6.html</loc>
-    <lastmod>2017-06-07</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/slide6.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/slide2.html</loc>
-    <lastmod>2017-06-07</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/slide2.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/slide3.html</loc>
-    <lastmod>2017-06-07</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/slide3.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/slide4.html</loc>
-    <lastmod>2017-06-07</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/slide4.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/usecases.html</loc>
-    <lastmod>2017-06-07</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/usecases.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/falsepositives.html</loc>
-    <lastmod>2017-06-13</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/falsepositives.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/efficiency.html</loc>
-    <lastmod>2017-06-07</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/efficiency.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/government.html</loc>
-    <lastmod>2017-06-13</lastmod>
+    <lastmod>2017-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://NexThreat.com/assets/preloader-2_2.gif</loc>
-    <lastmod>2017-06-06</lastmod>
+    <loc>http://NexThreat.com/assets/preloader-2_1.gif</loc>
+    <lastmod>2017-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
