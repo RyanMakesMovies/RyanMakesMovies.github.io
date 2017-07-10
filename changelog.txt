@@ -57,12 +57,15 @@ v5.01
 	- Pointed Nav links to proper pages
 	- Implemented <head> tracking code
 
-v5.02
-	- Mobile build
-	- 
+v5.02.01
+	- Mobile layout build/deploy
+	- Layout Fixes
+	- Section 4 BG Added
+	- Desktop Footer bug fix
+	- Removed duplicate "Cyber Threat Hunting" slide
 
 Known Bugs as of 5.02
 	- Mousewheel scrolling not always responsive
-	- Minor text scaling/positioning bugs
 	- Footer overlaps text on small window size
 	- Disabled scroll animations
+	- Govt page is placeholder
