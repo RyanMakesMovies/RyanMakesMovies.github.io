@@ -8,28 +8,21 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/index.html"/>
   </url>
   <url>
-    <loc>http://NexThreat.com/slide1.html</loc>
-    <lastmod>2017-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/slide1.html"/>
-  </url>
-  <url>
     <loc>http://NexThreat.com/phone/footer.html</loc>
-    <lastmod>2017-07-09</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://NexThreat.com/home.html</loc>
-    <lastmod>2017-07-09</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/home.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/404.html</loc>
-    <lastmod>2017-06-22</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -42,122 +35,123 @@
   </url>
   <url>
     <loc>http://NexThreat.com/about.html</loc>
-    <lastmod>2017-07-09</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/about.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/statistics.html</loc>
-    <lastmod>2017-07-09</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/statistics.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/whynexthreat.html</loc>
-    <lastmod>2017-07-09</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/whynexthreat.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/clients.html</loc>
-    <lastmod>2017-06-22</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/clients.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/contact.html</loc>
-    <lastmod>2017-07-09</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/contact.html"/>
     <image:image>
-      <image:loc>http://NexThreat.com/images/fbicon.png</image:loc>
+      <image:loc>http://NexThreat.com/images/fbicon-min.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://NexThreat.com/images/rssicon.png</image:loc>
+      <image:loc>http://NexThreat.com/images/rssicon-min.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://NexThreat.com/images/twiticon.png</image:loc>
+      <image:loc>http://NexThreat.com/images/twiticon-min.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://NexThreat.com/images/linkedinicon.png</image:loc>
+      <image:loc>http://NexThreat.com/images/linkedinicon-min.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://NexThreat.com/slide5.html</loc>
-    <lastmod>2017-06-22</lastmod>
+    <loc>http://NexThreat.com/slide1.html</loc>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/slide5.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/slide1.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/slide6.html</loc>
-    <lastmod>2017-06-22</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/slide6.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/slide2.html</loc>
-    <lastmod>2017-06-22</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/slide2.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/slide3.html</loc>
-    <lastmod>2017-06-22</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/slide3.html"/>
   </url>
   <url>
     <loc>http://NexThreat.com/slide4.html</loc>
-    <lastmod>2017-06-22</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/slide4.html"/>
   </url>
   <url>
+    <loc>http://NexThreat.com/slide5.html</loc>
+    <lastmod>2017-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/slide5.html"/>
+  </url>
+  <url>
     <loc>http://NexThreat.com/usecases.html</loc>
-    <lastmod>2017-06-22</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/usecases.html"/>
   </url>
   <url>
-    <loc>http://NexThreat.com/falsepositives.html</loc>
-    <lastmod>2017-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/falsepositives.html"/>
-  </url>
-  <url>
     <loc>http://NexThreat.com/efficiency.html</loc>
-    <lastmod>2017-06-22</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/efficiency.html"/>
   </url>
   <url>
+    <loc>http://NexThreat.com/falsepositives.html</loc>
+    <lastmod>2017-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://NexThreat.com/phone/falsepositives.html"/>
+  </url>
+  <url>
     <loc>http://NexThreat.com/government.html</loc>
-    <lastmod>2017-06-22</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://NexThreat.com/assets/preloader-2_2.gif</loc>
-    <lastmod>2017-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://NexThreat.com/assets/header_precolor.png</loc>
-    <lastmod>2017-04-24</lastmod>
+    <loc>http://NexThreat.com/assets/header_precolor.jpg</loc>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
